@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px">
 </p>
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Devops Engineer and Frontend developer from Pune</h3>
+<h3 align="center">A passionate  Frontend Mobile developer from Pune</h3>
 
 [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/ajaympawar)
 [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dajaympawar%26type%3Djson)](https://github.com/ajaympawar)
